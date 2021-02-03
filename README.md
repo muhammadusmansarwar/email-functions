@@ -1,1 +1,1 @@
-# email-functions.php
+# email-functions
